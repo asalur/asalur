@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asalur
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning JS, JAVA and OOP
+- 🌱 I’m currently learning, JAVA and OOP
 - 💞️ I’m looking to collaborate with the future.
 - 📫 How to reach me - here. 
 
