@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asalur
-- 👀 I’m interested in tech
+- 👀 I’m interested in I.T.
 - 🌱 I’m currently learning JAVA and OOP
-- 💞️ I’m looking to collaborate with the future.
+- 💞️ I’m looking for work.
 - 📫 How to reach me - here. 
 
 <!---
