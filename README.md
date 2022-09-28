@@ -2,7 +2,7 @@
 - 👀 I’m interested in I.T.
 - 🌱 I’m currently learning JAVA and OOP
 - 💞️ I’m looking for work.
-- 📫 How to reach me - here. 
+- 📫 How to reach me - https://www.linkedin.com/in/marrara-dev/. 
 
 <!---
 asalur/asalur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
